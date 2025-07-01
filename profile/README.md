@@ -1,6 +1,7 @@
-## Hi there 👋
+![intraRP Schriftzug Graffiti](/profile/b2f6df7e-5ecc-4fd9-8d8e-d6dd9cdcdae1.png)
 
 <!--
+## Hi there 👋
 
 **Here are some ideas to get you started:**
 
