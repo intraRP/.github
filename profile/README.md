@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/profile/b2f6df7e-5ecc-4fd9-8d8e-d6dd9cdcdae1.png" alt="intraRP Graffiti" height=128px width=auto>
+  <img src="/profile/b2f6df7e-5ecc-4fd9-8d8e-d6dd9cdcdae1.png" alt="intraRP Graffiti" height=256px width=auto>
 </p>
 
 <!--
